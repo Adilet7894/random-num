@@ -44,8 +44,15 @@ button{
 .random{
     background-color: rgb(150, 60, 158);
     color: whitesmoke;
+    width: 400px;
     text-align: start;
     padding: 2px;
     padding-left: 50px;
     margin: 10px;
+}
+
+span{
+    border: 1px solid gainsboro;
+    background-color: #0b5f2a;
+    padding: 4px;
 }
